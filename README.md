@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 Clone this repository and navigate to the project directory:
 ```bash
 git clone https://github.com/mahimaquadras/browserstackAssignment.git
-cd bstack
+cd browserstackAssignment
 ```
 
 ### Install Required Dependencies
